@@ -2,7 +2,8 @@
 
 - 🔥 Contadora por formação e aspirante a Dev Full Stack apaixonada por tecnologia
 
-- 🔭👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
+- 👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
+
 
 
 ![snake gif](https://github.com/Darllisouza/Darllisouza/blob/output/github-contribution-grid-snake.svg)  

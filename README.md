@@ -4,7 +4,7 @@
 
 🔥 Contadora por formação e aspirante a Dev Full Stack apaixonada por tecnologia.
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) 
+🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End
 
 👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
 

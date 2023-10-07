@@ -8,9 +8,9 @@
 
 👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
 
-🔎 Também sou curiosa sobre o mercado de pagamentos no Brasil
+🔎 Também sou curiosa sobre os meios de pagamentos no Brasil
 
-✒️ Eu gosto de desenhar no meu tempo livre (fiz curso quando criança);
+✒️ Eu gosto de desenhar no meu tempo livre (fiz curso quando criança)
 
 📚 Lendo: [Brevidade inteligente](https://www.amazon.com.br/Brevidade-inteligente-poder-poucas-palavras/dp/6555646659/ref=asc_df_6555646659/?tag=googleshopp00-20&linkCode=df0&hvadid=647541500350&hvpos=&hvnetw=g&hvrand=9380680134921859369&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047761&hvtargid=pla-2199743763814&psc=1)
 

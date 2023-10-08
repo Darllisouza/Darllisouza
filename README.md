@@ -1,7 +1,7 @@
 # Oi, me chamo Darlliane 👋
 
 ```javascript
-function dev(name, age, work) {
+function dev(name, age, study) {
         this.name = name;
         this.age = age;
         this.study = study;

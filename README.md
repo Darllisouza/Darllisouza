@@ -1,5 +1,15 @@
 # Oi, me chamo Darlliane 👋
 
+```javascript
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.study = study;
+}
+let darlliSouza = new dev('Darlliane Souza', 25, 'Full Stack developer');
+console.log(darlliSouza);
+```
+
 ### Sobre mim
 
 🔥 Contadora por formação e aspirante a Dev Full Stack apaixonada por tecnologia.

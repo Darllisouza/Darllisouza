@@ -12,7 +12,7 @@ console.log(darlliSouza);
 
 ### Sobre mim
 
-🔥 Contadora por formação e aspirante a Dev Full Stack apaixonada por tecnologia.
+🔥 Contadora por formação e aspirante a Dev Back-End apaixonada por tecnologia.
 
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End
 

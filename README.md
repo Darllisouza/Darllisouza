@@ -18,7 +18,7 @@ console.log(darlliSouza);
 
 👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
 
-🔎 Também sou curiosa sobre os meios de pagamento no Brasil
+🔎 Também sou curiosa sobre os meios de pagamento
 
 ✒️ Eu gosto de desenhar no meu tempo livre (fiz curso quando criança)
 

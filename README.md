@@ -6,7 +6,7 @@ function dev(name, age, study) {
         this.age = age;
         this.study = study;
 }
-let darlliSouza = new dev('Darlliane Souza', 25, 'Back-End developer');
+let darlliSouza = new dev('Darlliane Souza', 25, 'Full Stack developer');
 console.log(darlliSouza);
 ```
 
@@ -14,7 +14,7 @@ console.log(darlliSouza);
 
 🔥 Contadora por formação e aspirante a Dev Back-End apaixonada por tecnologia.
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End
+🎓 Eu estudo Desenvolvimento de Software com Foco em Back-end
 
 👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
 

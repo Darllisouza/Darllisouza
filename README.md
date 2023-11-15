@@ -12,15 +12,11 @@ console.log(darlliSouza);
 
 ### Sobre mim
 
-🔥 Contadora por formação e aspirante a Dev Full Stack apaixonada por tecnologia.
-
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-end
-
-👨‍💻 Atualmente trabalho na [Flexpag](https://flexpag.com/)
-
-🔎 Também sou curiosa sobre os meios de pagamento
-
-✒️ Eu gosto de desenhar no meu tempo livre (fiz curso quando criança)
+Uma desenvolvedora apaixonada por criar soluções que tornem a vida das pessoas mais fácil.
+Sou contadora por formação e isso complementa meu interesse no desenvolvimento, fornecendo habilidades como análise de dados e resolução de problemas.
+Por fim, não poderia falar sobre mim sem citar meu hobby: Desenhar.
+A arte contribui para abordar projetos com criatividade e atenção aos detalhes.
+Quando não estou codando, dedico algumas horas do meu dia ao desenho e me vem o seguinte pensamento: "por que meu código sempre funciona perfeitamente na minha cabeça, mas não na realidade?".
 
 📚 Lendo: [Brevidade inteligente](https://www.amazon.com.br/Brevidade-inteligente-poder-poucas-palavras/dp/6555646659/ref=asc_df_6555646659/?tag=googleshopp00-20&linkCode=df0&hvadid=647541500350&hvpos=&hvnetw=g&hvrand=9380680134921859369&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047761&hvtargid=pla-2199743763814&psc=1)
 

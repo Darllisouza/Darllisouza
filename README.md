@@ -6,7 +6,7 @@ function dev(name, age, study) {
         this.age = age;
         this.study = study;
 }
-let darlliSouza = new dev('Darlliane Souza', 25, 'Full Stack developer');
+let darlliSouza = new dev('Darlliane Souza', 26, 'Full Stack developer');
 console.log(darlliSouza);
 ```
 
